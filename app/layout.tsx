@@ -51,24 +51,18 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL("https://kaminari.vercel.app"),
+  metadataBase: new URL("https://throat-two.vercel.app/"),
   openGraph: {
     title: "Throat",
     description: "Next.js, TailwindCSS and shadcn-ui Starter Template",
-    url: "https://kaminari.vercel.app",
+    url: "https://throat-two.vercel.app/",
     siteName: "Kaminari",
     images: [
       {
-        url: "https://kaminari.vercel.app/og.png",
+        url: "https://throat-two.vercel.app/og.png",
         width: 800,
         height: 600,
-      },
-      {
-        url: "https://kaminari.vercel.app/og-dark.png",
-        width: 1800,
-        height: 1600,
-        alt: "Next.js, TailwindCSS and shadcn-ui Starter Template",
-      },
+      }
     ],
     locale: "en-US",
     type: "website",
