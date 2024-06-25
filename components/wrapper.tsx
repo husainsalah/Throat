@@ -38,18 +38,14 @@ export default function Wrapper({ children }: { children: React.ReactNode }) {
   return (
     <>
       <div className="flex w-full items-center justify-between">
-        <Link
-          href="/"
-          className={`flex items-center text-2xl font-bold dark:text-white`}
-        >
-          THROAT{" "}
-          <span
-            className={`text-sm font-bold group ml-2 inline-block rounded-3xl bg-[#fafafa] px-3 text-black`}
+        {
+          <Link
+            href="/"
+            className={`flex items-center text-2xl font-bold dark:text-white`}
           >
-            <span className="">BETA</span>
-          </span>
-        </Link>
 
+          </Link>
+        }
         <ThemeToggle />
       </div>
       {children}

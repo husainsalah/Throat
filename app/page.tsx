@@ -13,22 +13,25 @@ export default function Home() {
         <Wrapper>
           <div className="p-40">
             <center>
-              <p className="flex w-full flex-col align-center items-center text-2xl text-white p-2">Coming Soon</p>
+              <p className="flex w-full flex-col align-center items-center text-2xl text-white p-2 tracking-widest">COMING SOON</p>
               <Image src={logo} alt="Throat Logo" className="p-10" ></Image>
               <p className="flex w-full flex-col align-center items-center text-2xl text-white p-4">Where frontline artists meet global activists.</p>
             </center>
           </div>
           <div className="">
-            <Button size="xl" className="w-full font-bold" variant="brand">
+            <Button size="xl" className="w-full font-light" variant="brand">
               <a
-                href="https://github.com/lucky-chap/kaminari"
+                href=""
                 target="_blank"
                 rel="noreferrer"
                 className="pb-1 dark:text-zinc-800 text-zinc-100"
               >
-                Signup for Updates
+                SIGNUP FOR UPDATES
               </a>{" "}
             </Button>
+          </div>
+          <div className="w-full text-right text-zinc-500">
+            <p>Photo by Morgana Wingard</p>
           </div>
         </Wrapper>
 
