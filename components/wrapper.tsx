@@ -46,7 +46,9 @@ export default function Wrapper({ children }: { children: React.ReactNode }) {
 
           </Link>
         }
+        {/*
         <ThemeToggle />
+        */}
       </div>
       {children}
       {/*
