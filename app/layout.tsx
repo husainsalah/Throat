@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     "Template",
     "shadcn-ui",
   ],
-  authors: [{ name: "Husain", url: "https://obedd.vercel.app" }],
+  authors: [{ name: "Husain", url: "https://throat-two.vercel.app/" }],
   creator: "Husain",
   publisher: "Throat",
   alternates: {},
