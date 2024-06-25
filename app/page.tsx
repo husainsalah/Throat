@@ -30,7 +30,7 @@ export default function Home() {
               </a>{" "}
             </Button>
           </div>
-          <div className="pt-80 pr-8 lg:pt-0 w-full text-right text-zinc-500">
+          <div className="pt-40 pr-8 lg:pt-0 w-full text-right text-zinc-500">
             <p>Photo by Morgana Wingard</p>
           </div>
         </Wrapper>
