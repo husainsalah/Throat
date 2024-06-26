@@ -19,12 +19,12 @@ export default function Home() {
             </center>
           </div>
           <div className="">
-            <Button size="xl" className="sheen w-full font-light rounded-full bg-transparent border-2 border-black hover:bg-transparent" variant="brand">
+            <Button size="xl" className="w-full rounded-full border-2 border-transparent bg-neutral-500/25 hover:bg-neutral-500/75 text-zinc-800 border-2 border-black" variant="brand">
               <a
                 href=""
                 target="_blank"
                 rel="noreferrer"
-                className="pb-1 text-sm tracking-[.5em] font-bold text-zinc-400 hover:text-white"
+                className="pb-1 text-sm tracking-[.5em] font-bold text-zinc-400 hover:text-zinc-100"
               >
                 SIGNUP FOR UPDATES
               </a>{" "}
