@@ -14,7 +14,7 @@ export default function Home() {
             <center>
               <p className="flex w-full flex-col align-center items-center font-bold text-xl text-white p-2 tracking-[.5em]">COMING SOON</p>
               <Image src={logo} alt="Throat Logo" className="min-width-10 w-auto lg:p-10 m-0" />
-              <p className="flex w-full flex-col align-center items-center text-2xl text-white p-4">Frontline Artists, Global activists</p>
+              <p className="flex w-full flex-col align-center items-center text-2xl text-white p-4">Frontline Artists | Global Activists | Positive Impact</p>
             </center>
           </div>
 
