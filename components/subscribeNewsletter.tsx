@@ -1,5 +1,5 @@
 
-import React, { useState } from "react";
+/*import React, { useState } from "react";
 
 function SubscribeNewsletter() {
     const [email, setEmail] = useState("");
@@ -45,3 +45,4 @@ function SubscribeNewsletter() {
     );
 }
 export default SubscribeNewsletter;
+*/
