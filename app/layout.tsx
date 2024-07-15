@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     title: "Throat",
     description: "Next.js, TailwindCSS and shadcn-ui Starter Template",
     url: "https://throat-two.vercel.app/",
-    siteName: "Kaminari",
+    siteName: "Throat Art",
     images: [
       {
         url: "https://throat-two.vercel.app/og.png",
