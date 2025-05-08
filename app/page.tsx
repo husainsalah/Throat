@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Wrapper from "@/components/wrapper";
-import logo from "@/public/images/logo.png";
+import logo from "@/public/images/throat-logo.png";
 export default function Home() {
   return (
     <section className="flex flex-col lg:flex-row">
